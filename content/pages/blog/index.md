@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: 'This is veeeeeeeeeeery long '
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
