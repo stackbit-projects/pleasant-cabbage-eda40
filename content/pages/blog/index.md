@@ -1,5 +1,5 @@
 ---
-title: 'This is veeeeeeeeeeery long '
+title: This is veeeeeeeeeeery long input that is actually suuuuper long and huge way
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
