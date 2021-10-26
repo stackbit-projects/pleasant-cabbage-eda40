@@ -1,5 +1,7 @@
 ---
-title: This is veeeeeeeeeeery long input that is actually suuuuper long and sadaasd
+title: >-
+  This is veeeeeeeeeeery long input that is actually suuuuper long and sadaasd
+  asdsa asdasd sadsad asdsa asda
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
