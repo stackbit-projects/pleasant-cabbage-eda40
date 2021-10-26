@@ -1,6 +1,7 @@
 ---
-title: |
+title: |-
   Home
+  a
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
