@@ -66,28 +66,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: FeaturedPostsSection
-    variant: variant-b
-    colors: colors-c
-    width: wide
-    height: short
-    contentWidth: medium
-    contentAlignHoriz: center
-    contentAlignVert: middle
-    bottomGap: none
-    topGap: none
-    title: Blog Posts
-    posts:
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
-    styles:
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        textAlign: center
   - type: CtaSection
     colors: colors-c
     width: wide
@@ -137,6 +115,28 @@ sections:
       subtitle:
         textAlign: center
       text:
+        textAlign: center
+  - type: FeaturedPostsSection
+    variant: variant-b
+    colors: colors-c
+    width: wide
+    height: short
+    contentWidth: medium
+    contentAlignHoriz: center
+    contentAlignVert: middle
+    bottomGap: none
+    topGap: none
+    title: Blog Posts
+    posts:
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
+    styles:
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
         textAlign: center
   - type: ContactSection
     variant: variant-b
